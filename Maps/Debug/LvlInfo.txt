@@ -1,0 +1,5 @@
+Debug World
+debugtiles.bmp
+debugmask.bmp
+320,240
+tilemap.txt
